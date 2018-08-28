@@ -37,5 +37,36 @@ Personal repository for research, learning and development within the field of I
 
 * *Krebs on Security - Investigative journalist blog on security by Brian Krebs* - https://krebsonsecurity.com/
 
+* *Offensive Security's Exploit Database Archive* - https://www.exploit-db.com/
 
+* *Securelist* - https://securelist.com/
+
+* *Packetstorm* - https://packetstormsecurity.com/
+
+* *Threat Post* - https://threatpost.com/
+
+* *Security Blog (Google)* - https://security.googleblog.com/
+
+* *The Hacker News* - https://thehackernews.com/
+
+* *DarkReading* - https://www.darkreading.com/Default.asp
+
+
+**Vendor Websites, Blogs and Newsletters**
+
+* *Malwarebytes* - https://blog.malwarebytes.com/
+
+* *Trendmicro* - https://blog.trendmicro.com/
+
+* *AVG* - https://now.avg.com/
+
+* *F-Secure* - https://labsblog.f-secure.com/
+
+* *FireEye* - https://www.fireeye.com/blog.html
+
+* *Naked Security (Sophos)* - https://nakedsecurity.sophos.com/
+
+**Instructionals, Videos and Podcasts**
+
+* *Sophos Youtube Channel* - https://www.youtube.com/user/SophosLabs/videos
 
