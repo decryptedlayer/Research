@@ -13,9 +13,7 @@ Personal repository for research, learning and development within the field of I
 
 **Governmental Vulnerability Alerts and Security Advisory Websites**
 
-* Computer Emergency Readiness Team Coordination Center (CERT/CC)
-
-  https://www.kb.cert.org/vuls/
+* **Computer Emergency Readiness Team Coordination Center (CERT/CC)** - https://www.kb.cert.org/vuls/
 
 National Vulnerability Database (NIST)
 
