@@ -29,3 +29,9 @@ Personal repository for research, learning and development within the field of I
 
 * *Internet Storm Center (SANS)* - https://isc.sans.edu/
 
+* *Reddit r/netsec* - https://www.reddit.com/r/netsec/
+
+* *APTnotes - Various public documents, whitepapers and articles about APT (Advanced Persistent Threat) campaigns* -https://github.com/kbandla/APTnotes
+
+
+
