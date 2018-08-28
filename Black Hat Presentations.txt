@@ -1,0 +1,5 @@
+**Red Team Techniques for Evading, Bypassing & Disabling MS**
+https://www.youtube.com/watch?v=2HNuzUuVyv0
+
+**The Industrial Revolution of Lateral Movement**
+https://www.youtube.com/watch?v=lbJPCnjQxCU
