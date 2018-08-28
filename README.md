@@ -9,6 +9,7 @@ Personal repository for research, learning and development within the field of I
 
 ### Staying up-to-date with industry
 
+
 **Governmental Vulnerability Alerts and Security Advisory Websites**
 
 Computer Emergency Readiness Team Coordination Center (CERT/CC)
